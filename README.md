@@ -14,7 +14,7 @@ to show them off.
 
 **The uniform probability variable problem**: This details my work in deriving
 using probabilistic means only the probability that given $n$ uniformly
-distributed random variables $x_1,x_2,\ldots,x_n$,
+distributed random variables $x_1,x_2,\ldots,x_n \in [0, 1]$,
 $$x_1 + x_2 + \cdots + x_n \ge 1.$$
 
 ![Probability Work Example 1](https://github.com/chirprush/math-work/blob/master/media/nprobability1.png?raw=true)
